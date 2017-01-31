@@ -1,1 +1,1 @@
-# IOT_not_named
+Internet of things unnamed project using codeigniter php framework.
